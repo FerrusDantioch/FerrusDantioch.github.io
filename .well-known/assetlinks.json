@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.ferrusdantioch.refuge",
+      "sha256_cert_fingerprints": [
+        "85:89:2C:79:30:0C:34:7F:0C:74:37:65:51:41:7B:1F:2D:E1:A3:41:88:FC:47:3C:36:EA:C4:83:3E:26:4A:C9"
+      ]
+    }
+  }
+]
